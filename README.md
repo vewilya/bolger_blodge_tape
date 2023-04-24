@@ -8,7 +8,7 @@ In my recent experiments, I've been working on developing a tape emulation using
 
 See the tape magic in action [here on Twitter](https://twitter.com/ubcomposer/status/1648668520761241600?s=20) or play with the tape machine yourself on the [Live Github Page](https://vewilya.github.io/bolger_blodge/)!
 
-<img width="500" alt="Screenshot 2023-04-19 at 08 55 33" src="/src/assets/images/BolgerBlodge.png">
+<img width="500" alt="Screenshot 2023-04-19 at 08 55 33" src="/src/BolgerBlodge.png">
 
 ### Disclaimer
 
